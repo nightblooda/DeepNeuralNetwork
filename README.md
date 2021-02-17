@@ -4,3 +4,4 @@ Contains multiple small projects on Deep Neural Network from scratch to intermed
 ## Projects:
 
 ### 1. LogisticRegression with Neural Network
+### 2. HiddenLayer Neural Newtork
